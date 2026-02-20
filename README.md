@@ -18,7 +18,7 @@ I build practical software and data-driven tools. My current focus is **C++ soft
 - **Bookstore Inventory System (C++)** — STL maps/vectors + file I/O + discount rules + sales processing  
   → https://github.com/JDBakerCS/Bookstore-inventory
 
-*(More projects coming: SDL2 Pac-Man animation, TESS anomaly detection pipeline.)*
+*Upcoming: SDL2 real-time graphics engine, TESS anomaly detection (autoencoders).*
 
 ## 🎯 Goals
 Seeking **summer internships** and research opportunities in:
