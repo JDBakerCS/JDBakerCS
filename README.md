@@ -10,7 +10,7 @@ I build practical software and data-driven tools. My current focus is **C++ soft
 - **Interdisciplinary interests:** ML + archaeology / linguistics / cultural analysis
 
 ## 🧰 Tech Stack
-- **Languages:** C++, Python
+- **Languages:** C++, Python, Html/CSS, JavaScript, 
 - **Tools:** Git, GitHub, VS Code
 - **Concepts:** OOP, data structures, algorithms, file parsing, basic ML pipelines
 
