@@ -5,6 +5,7 @@ Computer Science student at **BMCC (CUNY)** | Dean’s List (3x) | **GPA: 3.8** 
 I build practical software and data-driven tools. My current focus is **C++ software development** and **machine learning research** (especially anomaly detection in astronomy data).
 
 ## 🔭 Current Focus
+- **Javascript/ Web Application Development
 - **C++ / Software Development:** OOP, STL (maps/vectors), file I/O, clean project structure
 - **ML Research:** Unsupervised anomaly detection in **TESS stellar light curves** (autoencoders)
 - **Interdisciplinary interests:** ML + archaeology / linguistics / cultural analysis
