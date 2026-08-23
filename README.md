@@ -20,7 +20,7 @@ I build practical software, web applications, and data-driven tools. My current 
 - **Databases:** PostgreSQL
 - **Authentication and Security:** JWT, bcrypt, environment-based secrets
 - **APIs and Integrations:** GitHub API, Octokit, Gmail API, Google Gemini API
-- **Testing:** Node.js test runner, Supertest
+- **Testing:** Node.js test runner, Supertest, Postman
 - **Tools and Platforms:** Git, GitHub, VS Code, Axios, Render, Neon, Vercel
 
 ## 📌 Featured Projects
