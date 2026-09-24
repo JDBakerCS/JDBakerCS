@@ -10,15 +10,16 @@ I build practical software, web applications, and data-driven tools. My current 
 - **Web Application Development:** JavaScript, React, Node.js, Express, PostgreSQL
 - **C++ Software Development:** Object-oriented programming, STL, data structures, file I/O, and clean project structure
 - **Machine Learning Research:** Unsupervised anomaly detection in TESS stellar light curves using autoencoders
-- **Interdisciplinary Interests:** AI, astronomy, archaeology, linguistics, and cultural analysis
+- **Interdisciplinary Interests:** AI, astronomy, archaeology, history, linguistics, and cultural analysis
 
 ## 🧰 Tech Stack
 
 - **Languages:** C++, Python, JavaScript, HTML, CSS
 - **Frontend:** React, Vite, React Router, JSX, responsive web design
 - **Backend:** Node.js, Express, Sequelize, REST APIs
-- **Databases:** PostgreSQL
+- **Computer Vision and MIDI:** MediaPipe, OpenCV, Mido, python-rtmidi, loopMIDI
 - **Authentication and Security:** JWT, bcrypt, environment-based secrets
+- **Databases:** PostgreSQL, SQL, SQLite
 - **APIs and Integrations:** GitHub API, Octokit, Gmail API, Google Gemini API
 - **Testing:** Node.js test runner, Supertest, Postman
 - **Tools and Platforms:** Git, GitHub, VS Code, Axios, Render, Neon, Vercel
@@ -96,13 +97,24 @@ I am seeking software engineering internships and research opportunities related
 - Data science
 - Artificial intelligence and machine learning
 
-## 📂 Earlier Projects
+## 📂 Current Projects
 
-### Bookstore Inventory System
+### HandTrack_To_MIDI — Gesture-Controlled MIDI Chord Controller
 
-A C++ inventory and sales-processing application using STL maps and vectors, file I/O, discount rules, and transaction processing.
+A Python music controller that uses MediaPipe and OpenCV hand tracking to map two-hand gestures to chord selection and expressive MIDI control. The application sends MIDI through loopMIDI for use with LMMS or another software instrument.
 
-[View the Bookstore Inventory project](https://github.com/JDBakerCS/Bookstore-inventory)
+Current work includes:
+
+- Selector-hand gestures for scale degrees I–VII and major/minor chord qualities
+- Expression-hand control for smoothed, rate-limited MIDI CC74 output
+- Pinch modifiers for major 7, minor 7, and dominant 7 chords
+- Modular gesture, harmony, and MIDI lifecycle components
+- Shared-note chord transitions to reduce unnecessary note changes
+- Automated tests for gesture classification, harmony, and MIDI behavior
+- Handling for brief hand-tracking dropouts and safe MIDI cleanup
+- Planned ML extension: collect clean, labeled hand-landmark recordings and evaluate a trained gesture classifier against the current rule-based recognizer using session-separated train/test splits.
+
+[View the HandTrack_To_MIDI project](https://github.com/JDBakerCS/HandTrack_To_MIDI)
 
 ## 📫 Contact
 
