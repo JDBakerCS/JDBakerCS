@@ -3,6 +3,8 @@
 Computer Science student at **BMCC (CUNY)** | Dean’s List (3×) | **GPA: 3.8** | ASAP | Phi Theta Kappa  
 **Transferring to Columbia University in Spring 2027**
 
+I am currently a software engineer intern at Knitwell Group and currently prototyping and/or QA testing various projects
+
 I build practical software, web applications, and data-driven tools. My current interests include full-stack development, C++ software development, machine learning research, and AI.
 
 ## 🔭 Current Focus
@@ -10,18 +12,18 @@ I build practical software, web applications, and data-driven tools. My current 
 - **Web Application Development:** JavaScript, React, Node.js, Express, PostgreSQL
 - **C++ Software Development:** Object-oriented programming, STL, data structures, file I/O, and clean project structure
 - **Machine Learning Research:** Unsupervised anomaly detection in TESS stellar light curves using autoencoders
-- **Interdisciplinary Interests:** AI, astronomy, archaeology, history, linguistics, and cultural analysis
+- **Interdisciplinary Interests:** Physics, astronomy, archaeology, history, linguistics, and cultural analysis, UI/UX, AI-dev-workflow optimization
 
 ## 🧰 Tech Stack
 
-- **Languages:** C++, Python, JavaScript, HTML, CSS
-- **Frontend:** React, Vite, React Router, JSX, responsive web design
-- **Backend:** Node.js, Express, Sequelize, REST APIs
+- **Languages:** C++, Python, Python3, JavaScript, TypeScript, Java, HTML, CSS, SQL
+- **Frontend:** React, Vite, TSX, React Router, JSX, responsive web design
+- **Backend:** Node.js, Express, Sequelize, REST APIs, SpringBoot, 
 - **Computer Vision and MIDI:** MediaPipe, OpenCV, Mido, python-rtmidi, loopMIDI
-- **Authentication and Security:** JWT, bcrypt, environment-based secrets
-- **Databases:** PostgreSQL, SQL, SQLite
+- **Authentication and Security:** JWT, bcrypt, environment-based secrets, Azure AD
+- **Databases:** PostgreSQL, SQLite, NoSQL, Podman, firestore
 - **APIs and Integrations:** GitHub API, Octokit, Gmail API, Google Gemini API
-- **Testing:** Node.js test runner, Supertest, Postman
+- **Testing:** Node.js test runner, Supertest, Postman,
 - **Tools and Platforms:** Git, GitHub, VS Code, Axios, Render, Neon, Vercel
 
 ## 📌 Featured Projects
